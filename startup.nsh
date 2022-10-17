@@ -19,6 +19,7 @@
 @echo "A1398 820-00138  - FW: 2.30f2   -  Type: 820-00138.nsh"
 @echo "A1398 820-00163  - FW: 2.30f2   -  Type: 820-00163.nsh"
 @echo "A1398 820-00426  - FW: 2.30f2   -  Type: 820-00426.nsh"
+@echo "A1347 820-5509   - FW: 2.24f32  -  Type: 820-5509.nsh"
 @echo ""
 @echo "NOTE: Script will run immediately, so be sure"
 @echo "      when you choose to run the script."
